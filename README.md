@@ -1,6 +1,4 @@
-# Leadership for Professionals
-
-# 🌟 Leadership Learning Resources
+# 🌟 Leadership for Professionals
 
 Welcome! This repository provides a curated list of **free, high-quality tutorials and courses** to help you begin or grow your journey as a leader. Topics range from emotional intelligence to practical team management.
 
